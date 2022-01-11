@@ -6,6 +6,6 @@ public class ClsA {
 	}
 	
 	public ClsA(int n) {
-		System.out.println("ClsA(int n)의 생성자 호출");
+		System.out.println("ClsA(int n)의 생성자 호출 : "+n);
 	}
 }

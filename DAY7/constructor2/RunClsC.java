@@ -4,7 +4,7 @@ public class RunClsC {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		ClsC c = new ClsC(10);
+		ClsC c = new ClsC(20);
 	}
 
 }
